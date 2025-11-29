@@ -1153,6 +1153,8 @@ export const exceptions: Exceptions = {
           third: 'siga',
         },
         plural: {
+          first: 'sigamos',
+          second: 'sigáis',
           third: 'sigan',
         },
       },
@@ -1901,6 +1903,98 @@ export const exceptions: Exceptions = {
         plural: {
           second: 'vengáis',
           third: 'vengan',
+        },
+      },
+    },
+  },
+  corregir: {
+    subjunctive: {
+      present: {
+        singular: {
+          first: 'corrija',
+          second: 'corrijas',
+          third: 'corrija',
+        },
+        plural: {
+          first: 'corrijamos',
+          second: 'corrijáis',
+          third: 'corrijan',
+        },
+      },
+    },
+  },
+  construir: {
+    subjunctive: {
+      present: {
+        singular: {
+          first: 'construya',
+          second: 'construyas',
+          third: 'construya',
+        },
+        plural: {
+          first: 'construyamos',
+          second: 'construyáis',
+          third: 'construyan',
+        },
+      },
+    },
+  },
+  mantener: {
+    indicative: {
+      present: {
+        singular: {
+          first: 'mantengo',
+          second: 'mantienes',
+          third: 'mantiene',
+        },
+        plural: {
+          first: 'mantenemos',
+          second: 'mantenéis',
+          third: 'mantienen',
+        },
+      }
+    },
+    subjunctive: {
+      present: {
+        singular: {
+          first: 'mantenga',
+          second: 'mantengas',
+          third: 'mantenga',
+        },
+        plural: {
+          first: 'mantengamos',
+          second: 'mantengáis',
+          third: 'mantengan',
+        },
+      },
+    },
+  },
+  huir: {
+    indicative: {
+      present: {
+        singular: {
+          first: 'huyo',
+          second: 'huyes',
+          third: 'huye',
+        },
+        plural: {
+          first: 'huimos',
+          second: 'huís',
+          third: 'huyen',
+        },
+      }
+    },
+    subjunctive: {
+      present: {
+        singular: {
+          first: 'huya',
+          second: 'huyas',
+          third: 'huya',
+        },
+        plural: {
+          first: 'huyamos',
+          second: 'huyáis',
+          third: 'huyan',
         },
       },
     },
